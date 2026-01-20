@@ -123,4 +123,4 @@ The application uses optimistic updates and React state management to ensure a s
 
 ---
 
-*Built with ❤️ by the RixelDev.*
+*Built with ❤️ by RixelDev.*
